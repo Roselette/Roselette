@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: 3d4890b4375c34246b74d9042c762e97
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _SphereAddTex: {fileID: 2800000, guid: 3740820fb10b46245b7fa3d2262caa40, type: 3}
+  userData: 
